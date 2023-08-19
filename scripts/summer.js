@@ -51,7 +51,7 @@ function prod6() {
 }
 
 function go_home(){
-    window.location.href = 'http://127.0.0.1:5500/index.html';
+    window.location.href = 'https://64e1407bf0b98c0dbb90561a--admirable-sopapillas-4cd84b.netlify.app/';
     // document.getElementById('prev_total').innerText = '0.00';
     // document.getElementById('discount').innerText = '0.00';
     // document.getElementById('final_total').innerText = '0.00';
